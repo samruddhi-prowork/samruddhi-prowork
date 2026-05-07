@@ -34,7 +34,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=samruddhi-prowork&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -44,6 +44,6 @@
 
 ### 🚀 "Code. Learn. Build. Repeat."
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=samruddhi-prowork&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
