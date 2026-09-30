@@ -13,6 +13,7 @@
 ## 🚀 About Me
 
 - 💻 Software Engineer II
+- FDE: I am Forward Deployed Engineer
 - 🌱 Learning **AI, System Design & AWS Cloud**
 - ⚡ Working across **Frontend, Backend & Product**
 - 🎯 Goal: Build impactful scalable products
